@@ -1,0 +1,14 @@
+aside .active{
+    background-color: #5932EA;
+    color:white;
+}
+
+aside .active  svg {
+    stroke: white;
+    fill:transparent;
+}
+
+aside svg {
+    stroke: #9197b3;
+    fill:transparent;
+}
